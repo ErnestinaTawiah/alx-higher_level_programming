@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-# 0-square.py
-# Brennan D Baraban <375@holbertonschool.com>
+"""Empty Class Square"""
+
 
 class Square:
+    """Empty Class Square"""
     pass
